@@ -8,4 +8,4 @@ Key Words: Points-of-Interest, Neighborhood analythics, Smart-City Data, Mapilla
 The dataset is avaliable for academic research and could be download from https://drive.google.com/drive/folders/12PHKLhaRzpZQxfffoU13g3ebvYHtYt08?usp=sharing
 
 
-** Citing Points-of-Interest from Mapillary Street-level Imagery: A Dataset For Neighborhood Analytics ** 
+## Citing Points-of-Interest from Mapillary Street-level Imagery: A Dataset For Neighborhood Analytics 
