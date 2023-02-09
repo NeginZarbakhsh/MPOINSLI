@@ -5,7 +5,7 @@ The United Nations' Sustainable Development Goals (SDG) identify sustainable urb
 Key Words: Points-of-Interest, Neighborhood analythics, Smart-City Data, Mapillary Crowdsource street-level images, Safegraph
 
 
-The dataset is avaliable for academic research and could be download from https://drive.google.com/drive/folders/12PHKLhaRzpZQxfffoU13g3ebvYHtYt08?usp=sharing
+The dataset is avaliable for academic research and could be download from ?
 
 
 ## Citing: 
