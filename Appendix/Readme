@@ -6,4 +6,8 @@ MPOINSLI Number of Images per categories and Subcategories file.xlxs file:
 The sub-categories of MPOINSLI and the number of images that exist for all 67 categories
 
 hour.png:
-It shows the main contribution of users over a 24-hour period in 6-hour increments. The category index are match with the paper index defiend for each 23 categories.
+It shows the main contribution of users over a 24-hour period in 6-hour increments. The category index are match with the paper index defiend for each 23 categories. Moving from a day-of-the-week (DOW) analysis to an hourly temporal resolution, the main contribution of users over a 24-hour period in 6-hour increments is calculated to observe lifestyle patterns.  From 18 PM to 12 AM (evenings) for all categories except Offices of Other Health Practitioners, which happens from 12 AM to 06 AM the majority of the images were taken. The minimum contribution almost happens from 06 AM to 12 PM (mornings) for all categories except for Promoters of Performing Arts, Sports, and Similar Events
+Health and Personal Care Stores and Clothing Stores which happen from 12 PM-18 PM (noon) and Jewelry, Luggage, and Leather Goods Stores which happened between 12 AM and 6 AM. The analysis of hourly contribution is consistent with the user's contribution analyzed in [1] that also indicated city-lifestyle rhythms. However, it requires further analysis to asses if such deviation is reliable.
+
+References:
+[1]: Mahabir, Ron, Ross Schuchard, Andrew Crooks, Arie Croitoru, and Anthony Stefanidis. 2020. "Crowdsourcing Street View Imagery: A Comparison of Mapillary and OpenStreetCam" ISPRS International Journal of Geo-Information 9, no. 6: 341. https://doi.org/10.3390/ijgi9060341
