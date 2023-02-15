@@ -1,7 +1,7 @@
 # Mapillary Points of Interest Neighborhood Street-level Imagery: A Potential Dataset for Neighborhood Analytics in Cities
 
 ### Dataset Name : MPOINSLI Mapillary POI-Neighborhood Street-Level Images.
-MPOINSLI Datasets related to this article can be found at [here] (https://doi.org/10.5281/zenodo.7618831), an open-source data repository hosted at Zenod
+MPOINSLI Datasets related to this article can be found at [here](https://doi.org/10.5281/zenodo.7618831), an open-source data repository hosted at Zenod
 
 
 **Abstract**:
