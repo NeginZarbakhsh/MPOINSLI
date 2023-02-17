@@ -3,7 +3,6 @@
 ### Dataset Name : MPOINSLI Mapillary POI-Neighborhood Street-Level Images.
 MPOINSLI Datasets related to this article can be found at [here](https://doi.org/10.5281/zenodo.7618831), an open-source data repository hosted at Zenod avaliable for academic research.
 
-T0 use the collected dataset or methods, please use the below citation:
 
 **Abstract**:
 
@@ -11,4 +10,6 @@ The Sustainable Development Goals of the United Nations promote sustainable urba
 
 _Key Words:_ Points-of-Interest, Neighborhood analythics, Smart-City Data, Mapillary Crowdsource street-level images, Safegraph
 
+# Citting MPOINSLI
+If you use MPOINSLI, please use the following BibTeX entry.
 
