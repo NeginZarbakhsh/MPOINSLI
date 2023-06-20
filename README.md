@@ -1,7 +1,7 @@
 # Mapillary Points of Interest Neighborhood Street-level Imagery: A Potential Dataset for Neighborhood Analytics in Cities
 
-### Dataset Name : MPOINSLI Mapillary POI-Neighborhood Street-Level Images.
-MPOINSLI Datasets related to this article can be found at [here](https://doi.org/10.5281/zenodo.7618831), an open-source data repository hosted at Zenod avaliable for academic research.
+### Dataset: MPOINSLI Mapillary POI-Neighborhood Street-Level Images.
+MPOINSLI Datasets related to this article can be found at [here](https://doi.org/10.5281/zenodo.7618831), an open-source data repository hosted at Zenod available for academic research.
 
 
 **Abstract**:
@@ -10,6 +10,6 @@ The Sustainable Development Goals of the United Nations promote sustainable urba
 
 _Key Words:_ Points-of-Interest, Neighborhood analythics, Smart-City Data, Mapillary Crowdsource street-level images, Safegraph
 
-# Citting MPOINSLI
-If you use MPOINSLI, please use the following BibTeX entry.
-
+Citing MPOINSLI
+If you use MPOINSLI, please use the following BibTeX entry:
+N. Zarbakhsh and G. McArdle, "Points-of-Interest from Mapillary Street-level Imagery: A Dataset For Neighborhood Analytics," 2023 IEEE 39th International Conference on Data Engineering Workshops (ICDEW), Anaheim, CA, USA, 2023, pp. 154-161, doi: 10.1109/ICDEW58674.2023.00030.
