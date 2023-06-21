@@ -10,6 +10,6 @@ The Sustainable Development Goals of the United Nations promote sustainable urba
 
 _Key Words:_ Points-of-Interest, Neighborhood analythics, Smart-City Data, Mapillary Crowdsource street-level images, Safegraph
 
-Citing MPOINSLI
+## Citing MPOINSLI
 If you use MPOINSLI, please use the following BibTeX entry:
 N. Zarbakhsh and G. McArdle, "Points-of-Interest from Mapillary Street-level Imagery: A Dataset For Neighborhood Analytics," 2023 IEEE 39th International Conference on Data Engineering Workshops (ICDEW), Anaheim, CA, USA, 2023, pp. 154-161, doi: 10.1109/ICDEW58674.2023.00030.
